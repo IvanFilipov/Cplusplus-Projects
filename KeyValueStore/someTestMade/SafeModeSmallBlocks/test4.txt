@@ -1,0 +1,111 @@
+
+Program started at : Fri Feb 05 12:14:06 2016
+
+
+
+Test 4 : loading 100 blocks,in a store,already containing 2000 block,with 256 chains 
+
+at : 12:14:06 :  LOADING a block with key : 10002268 at hash 211 ... error / not existing!
+at : 12:14:06 :  LOADING a block with key : 10000698 at hash 24 ... successful! Block loaded at Ox001A98B8 with size 11(bytes)!
+at : 12:14:06 :  LOADING a block with key : 10001185 at hash 168 ... successful! Block loaded at Ox001A9858 with size 11(bytes)!
+at : 12:14:06 :  LOADING a block with key : 10003753 at hash 247 ... error / not existing!
+at : 12:14:06 :  LOADING a block with key : 10001158 at hash 162 ... successful! Block loaded at Ox001ACF20 with size 11(bytes)!
+at : 12:14:06 :  LOADING a block with key : 10002243 at hash 130 ... error / not existing!
+at : 12:14:06 :  LOADING a block with key : 10001891 at hash 0 ... successful! Block loaded at Ox001ABE48 with size 11(bytes)!
+at : 12:14:06 :  LOADING a block with key : 10002096 at hash 194 ... error / not existing!
+at : 12:14:06 :  LOADING a block with key : 10003820 at hash 192 ... error / not existing!
+at : 12:14:06 :  LOADING a block with key : 10003314 at hash 138 ... error / not existing!
+at : 12:14:06 :  LOADING a block with key : 10003193 at hash 197 ... error / not existing!
+at : 12:14:06 :  LOADING a block with key : 10002965 at hash 41 ... error / not existing!
+at : 12:14:06 :  LOADING a block with key : 10003439 at hash 236 ... error / not existing!
+at : 12:14:06 :  LOADING a block with key : 10000881 at hash 224 ... successful! Block loaded at Ox001AD008 with size 11(bytes)!
+at : 12:14:06 :  LOADING a block with key : 10000006 at hash 39 ... successful! Block loaded at Ox001AD050 with size 11(bytes)!
+at : 12:14:06 :  LOADING a block with key : 10000523 at hash 117 ... successful! Block loaded at Ox001AD098 with size 11(bytes)!
+at : 12:14:06 :  LOADING a block with key : 10003349 at hash 232 ... error / not existing!
+at : 12:14:06 :  LOADING a block with key : 10001169 at hash 186 ... successful! Block loaded at Ox001AD0E0 with size 11(bytes)!
+at : 12:14:06 :  LOADING a block with key : 10002969 at hash 85 ... error / not existing!
+at : 12:14:06 :  LOADING a block with key : 10002170 at hash 119 ... error / not existing!
+at : 12:14:06 :  LOADING a block with key : 10003662 at hash 232 ... error / not existing!
+at : 12:14:06 :  LOADING a block with key : 10000092 at hash 112 ... successful! Block loaded at Ox001AD128 with size 11(bytes)!
+at : 12:14:06 :  LOADING a block with key : 10001024 at hash 62 ... successful! Block loaded at Ox001AD170 with size 11(bytes)!
+at : 12:14:06 :  LOADING a block with key : 10000017 at hash 63 ... successful! Block loaded at Ox001AD1B8 with size 11(bytes)!
+at : 12:14:06 :  LOADING a block with key : 10002021 at hash 48 ... error / not existing!
+at : 12:14:06 :  LOADING a block with key : 10003206 at hash 130 ... error / not existing!
+at : 12:14:06 :  LOADING a block with key : 10001335 at hash 137 ... successful! Block loaded at Ox001AD200 with size 11(bytes)!
+at : 12:14:06 :  LOADING a block with key : 10000645 at hash 182 ... successful! Block loaded at Ox001AD248 with size 11(bytes)!
+at : 12:14:06 :  LOADING a block with key : 10002044 at hash 107 ... error / not existing!
+at : 12:14:06 :  LOADING a block with key : 10001306 at hash 109 ... successful! Block loaded at Ox001AD290 with size 11(bytes)!
+at : 12:14:06 :  LOADING a block with key : 10001939 at hash 27 ... successful! Block loaded at Ox001AD2D8 with size 11(bytes)!
+at : 12:14:06 :  LOADING a block with key : 10002200 at hash 45 ... error / not existing!
+at : 12:14:06 :  LOADING a block with key : 10003335 at hash 175 ... error / not existing!
+at : 12:14:06 :  LOADING a block with key : 10000767 at hash 247 ... successful! Block loaded at Ox001AD320 with size 11(bytes)!
+at : 12:14:06 :  LOADING a block with key : 10001683 at hash 231 ... successful! Block loaded at Ox001AD368 with size 11(bytes)!
+at : 12:14:06 :  LOADING a block with key : 10003956 at hash 58 ... error / not existing!
+at : 12:14:06 :  LOADING a block with key : 10003053 at hash 128 ... error / not existing!
+at : 12:14:06 :  LOADING a block with key : 10001275 at hash 172 ... successful! Block loaded at Ox001AD3B0 with size 11(bytes)!
+at : 12:14:06 :  LOADING a block with key : 10002919 at hash 20 ... error / not existing!
+at : 12:14:06 :  LOADING a block with key : 10001773 at hash 235 ... successful! Block loaded at Ox001AD3F8 with size 11(bytes)!
+at : 12:14:06 :  LOADING a block with key : 10003122 at hash 95 ... error / not existing!
+at : 12:14:06 :  LOADING a block with key : 10001062 at hash 92 ... successful! Block loaded at Ox001AD440 with size 11(bytes)!
+at : 12:14:06 :  LOADING a block with key : 10002329 at hash 187 ... error / not existing!
+at : 12:14:06 :  LOADING a block with key : 10000621 at hash 112 ... successful! Block loaded at Ox001AD488 with size 11(bytes)!
+at : 12:14:06 :  LOADING a block with key : 10003737 at hash 9 ... error / not existing!
+at : 12:14:06 :  LOADING a block with key : 10000603 at hash 108 ... successful! Block loaded at Ox001AD4D0 with size 11(bytes)!
+at : 12:14:06 :  LOADING a block with key : 10000895 at hash 25 ... successful! Block loaded at Ox001AD518 with size 11(bytes)!
+at : 12:14:06 :  LOADING a block with key : 10002113 at hash 74 ... error / not existing!
+at : 12:14:06 :  LOADING a block with key : 10001112 at hash 44 ... successful! Block loaded at Ox001AD560 with size 11(bytes)!
+at : 12:14:06 :  LOADING a block with key : 10001746 at hash 229 ... successful! Block loaded at Ox001AD5A8 with size 11(bytes)!
+at : 12:14:06 :  LOADING a block with key : 10003039 at hash 168 ... error / not existing!
+at : 12:14:06 :  LOADING a block with key : 10003044 at hash 126 ... error / not existing!
+at : 12:14:06 :  LOADING a block with key : 10001051 at hash 68 ... successful! Block loaded at Ox001AD5F0 with size 11(bytes)!
+at : 12:14:06 :  LOADING a block with key : 10000550 at hash 123 ... successful! Block loaded at Ox001AD638 with size 11(bytes)!
+at : 12:14:06 :  LOADING a block with key : 10003455 at hash 218 ... error / not existing!
+at : 12:14:06 :  LOADING a block with key : 10000588 at hash 250 ... successful! Block loaded at Ox001AD680 with size 11(bytes)!
+at : 12:14:06 :  LOADING a block with key : 10001957 at hash 31 ... successful! Block loaded at Ox001AD6C8 with size 11(bytes)!
+at : 12:14:06 :  LOADING a block with key : 10001020 at hash 18 ... successful! Block loaded at Ox001AD710 with size 11(bytes)!
+at : 12:14:06 :  LOADING a block with key : 10001751 at hash 187 ... successful! Block loaded at Ox001AD758 with size 11(bytes)!
+at : 12:14:06 :  LOADING a block with key : 10003052 at hash 117 ... error / not existing!
+at : 12:14:06 :  LOADING a block with key : 10002814 at hash 204 ... error / not existing!
+at : 12:14:06 :  LOADING a block with key : 10002369 at hash 239 ... error / not existing!
+at : 12:14:06 :  LOADING a block with key : 10002537 at hash 212 ... error / not existing!
+at : 12:14:06 :  LOADING a block with key : 10000616 at hash 154 ... successful! Block loaded at Ox001AD7A0 with size 11(bytes)!
+at : 12:14:06 :  LOADING a block with key : 10001927 at hash 248 ... successful! Block loaded at Ox001AD7E8 with size 11(bytes)!
+at : 12:14:06 :  LOADING a block with key : 10000066 at hash 117 ... successful! Block loaded at Ox001AD830 with size 11(bytes)!
+at : 12:14:06 :  LOADING a block with key : 10003929 at hash 52 ... error / not existing!
+at : 12:14:06 :  LOADING a block with key : 10000661 at hash 164 ... successful! Block loaded at Ox001AD878 with size 11(bytes)!
+at : 12:14:06 :  LOADING a block with key : 10002318 at hash 163 ... error / not existing!
+at : 12:14:06 :  LOADING a block with key : 10000716 at hash 171 ... successful! Block loaded at Ox001AD8C0 with size 11(bytes)!
+at : 12:14:06 :  LOADING a block with key : 10001172 at hash 122 ... successful! Block loaded at Ox001AD908 with size 11(bytes)!
+at : 12:14:06 :  LOADING a block with key : 10001639 at hash 232 ... successful! Block loaded at Ox001AD950 with size 11(bytes)!
+at : 12:14:06 :  LOADING a block with key : 10003464 at hash 220 ... error / not existing!
+at : 12:14:06 :  LOADING a block with key : 10003382 at hash 207 ... error / not existing!
+at : 12:14:06 :  LOADING a block with key : 10002984 at hash 56 ... error / not existing!
+at : 12:14:06 :  LOADING a block with key : 10000581 at hash 173 ... successful! Block loaded at Ox001AD998 with size 11(bytes)!
+at : 12:14:06 :  LOADING a block with key : 10000977 at hash 38 ... successful! Block loaded at Ox001AD9E0 with size 11(bytes)!
+at : 12:14:06 :  LOADING a block with key : 10002895 at hash 63 ... error / not existing!
+at : 12:14:06 :  LOADING a block with key : 10001670 at hash 185 ... successful! Block loaded at Ox001ADA28 with size 11(bytes)!
+at : 12:14:06 :  LOADING a block with key : 10000881 at hash 224 ... successful! Block loaded at Ox001ADA70 with size 11(bytes)!
+at : 12:14:06 :  LOADING a block with key : 10003997 at hash 121 ... error / not existing!
+at : 12:14:06 :  LOADING a block with key : 10002018 at hash 112 ... error / not existing!
+at : 12:14:06 :  LOADING a block with key : 10001891 at hash 0 ... successful! Block loaded at Ox001ACF68 with size 11(bytes)!
+at : 12:14:06 :  LOADING a block with key : 10000957 at hash 12 ... successful! Block loaded at Ox001ACFB0 with size 11(bytes)!
+at : 12:14:06 :  LOADING a block with key : 10001935 at hash 239 ... successful! Block loaded at Ox001ADB18 with size 11(bytes)!
+at : 12:14:06 :  LOADING a block with key : 10000486 at hash 211 ... successful! Block loaded at Ox001ADB60 with size 11(bytes)!
+at : 12:14:06 :  LOADING a block with key : 10002035 at hash 105 ... error / not existing!
+at : 12:14:06 :  LOADING a block with key : 10001522 at hash 125 ... successful! Block loaded at Ox001ADBA8 with size 11(bytes)!
+at : 12:14:06 :  LOADING a block with key : 10002559 at hash 4 ... error / not existing!
+at : 12:14:06 :  LOADING a block with key : 10000858 at hash 6 ... successful! Block loaded at Ox001ADAB8 with size 11(bytes)!
+at : 12:14:06 :  LOADING a block with key : 10001575 at hash 223 ... successful! Block loaded at Ox001ADC50 with size 11(bytes)!
+at : 12:14:06 :  LOADING a block with key : 10003376 at hash 238 ... error / not existing!
+at : 12:14:06 :  LOADING a block with key : 10000628 at hash 189 ... successful! Block loaded at Ox001ADC98 with size 11(bytes)!
+at : 12:14:06 :  LOADING a block with key : 10001636 at hash 199 ... successful! Block loaded at Ox001ADCE0 with size 11(bytes)!
+at : 12:14:06 :  LOADING a block with key : 10003538 at hash 242 ... error / not existing!
+at : 12:14:06 :  LOADING a block with key : 10003718 at hash 250 ... error / not existing!
+at : 12:14:06 :  LOADING a block with key : 10000304 at hash 68 ... successful! Block loaded at Ox001ADD28 with size 11(bytes)!
+at : 12:14:06 :  LOADING a block with key : 10002677 at hash 25 ... error / not existing!
+at : 12:14:06 :  LOADING a block with key : 10001608 at hash 182 ... successful! Block loaded at Ox001ADD70 with size 11(bytes)!
+at : 12:14:06 :  LOADING a block with key : 10002250 at hash 110 ... error / not existing!
+
+Program ended at : Fri Feb 05 12:14:06 2016
+with code 0
+

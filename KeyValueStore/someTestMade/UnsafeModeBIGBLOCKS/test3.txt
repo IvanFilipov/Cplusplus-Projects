@@ -1,0 +1,511 @@
+
+Program started at : Fri Feb 05 13:23:21 2016
+
+
+
+Test 3 :erasing 500 blocks,with BIG sizes 512KB ,in a store,containing 2000 blocks ,with 256 chains  
+
+at : 13:23:21 : ERASING the block with key :10001619 at hash 206 ...successful! 
+at : 13:23:21 : ERASING the block with key :10002439 at hash 217 ...error / not existing!
+at : 13:23:21 : ERASING the block with key :10000209 at hash 106 ...successful! 
+at : 13:23:21 : ERASING the block with key :10000889 at hash 56 ...successful! 
+at : 13:23:21 : ERASING the block with key :10000777 at hash 4 ...successful! 
+at : 13:23:21 : ERASING the block with key :10000484 at hash 189 ...successful! 
+at : 13:23:21 : ERASING the block with key :10000797 at hash 30 ...successful! 
+at : 13:23:21 : ERASING the block with key :10001548 at hash 217 ...successful! 
+at : 13:23:22 : ERASING the block with key :10002699 at hash 73 ...error / not existing!
+at : 13:23:22 : ERASING the block with key :10001201 at hash 37 ...successful! 
+at : 13:23:22 : ERASING the block with key :10002054 at hash 120 ...error / not existing!
+at : 13:23:22 : ERASING the block with key :10001964 at hash 11 ...successful! 
+at : 13:23:22 : ERASING the block with key :10002966 at hash 52 ...error / not existing!
+at : 13:23:22 : ERASING the block with key :10002589 at hash 43 ...error / not existing!
+at : 13:23:22 : ERASING the block with key :10001182 at hash 135 ...successful! 
+at : 13:23:22 : ERASING the block with key :10001882 at hash 254 ...successful! 
+at : 13:23:23 : ERASING the block with key :10000809 at hash 208 ...successful! 
+at : 13:23:23 : ERASING the block with key :10000115 at hash 58 ...successful! 
+at : 13:23:23 : ERASING the block with key :10000083 at hash 110 ...successful! 
+at : 13:23:23 : ERASING the block with key :10002623 at hash 172 ...error / not existing!
+at : 13:23:23 : ERASING the block with key :10000493 at hash 191 ...successful! 
+at : 13:23:23 : ERASING the block with key :10000111 at hash 14 ...successful! 
+at : 13:23:23 : ERASING the block with key :10000633 at hash 147 ...successful! 
+at : 13:23:23 : ERASING the block with key :10000601 at hash 86 ...successful! 
+at : 13:23:23 : ERASING the block with key :10001438 at hash 187 ...successful! 
+at : 13:23:24 : ERASING the block with key :10000435 at hash 135 ...successful! 
+at : 13:23:24 : ERASING the block with key :10001277 at hash 194 ...successful! 
+at : 13:23:24 : ERASING the block with key :10002808 at hash 235 ...error / not existing!
+at : 13:23:24 : ERASING the block with key :10001855 at hash 248 ...error / not existing!
+at : 13:23:24 : ERASING the block with key :10001392 at hash 182 ...successful! 
+at : 13:23:24 : ERASING the block with key :10000033 at hash 45 ...successful! 
+at : 13:23:24 : ERASING the block with key :10002780 at hash 234 ...error / not existing!
+at : 13:23:24 : ERASING the block with key :10000989 at hash 73 ...successful! 
+at : 13:23:24 : ERASING the block with key :10001989 at hash 92 ...successful! 
+at : 13:23:25 : ERASING the block with key :10001277 at hash 194 ...error / not existing!
+at : 13:23:25 : ERASING the block with key :10000835 at hash 203 ...successful! 
+at : 13:23:25 : ERASING the block with key :10002621 at hash 150 ...error / not existing!
+at : 13:23:25 : ERASING the block with key :10002281 at hash 160 ...error / not existing!
+at : 13:23:25 : ERASING the block with key :10000587 at hash 239 ...successful! 
+at : 13:23:25 : ERASING the block with key :10002590 at hash 213 ...error / not existing!
+at : 13:23:25 : ERASING the block with key :10002878 at hash 70 ...error / not existing!
+at : 13:23:25 : ERASING the block with key :10002546 at hash 214 ...error / not existing!
+at : 13:23:25 : ERASING the block with key :10002573 at hash 220 ...error / not existing!
+at : 13:23:25 : ERASING the block with key :10002158 at hash 181 ...error / not existing!
+at : 13:23:25 : ERASING the block with key :10002462 at hash 179 ...error / not existing!
+at : 13:23:25 : ERASING the block with key :10002628 at hash 227 ...error / not existing!
+at : 13:23:25 : ERASING the block with key :10002286 at hash 215 ...error / not existing!
+at : 13:23:25 : ERASING the block with key :10000038 at hash 100 ...successful! 
+at : 13:23:25 : ERASING the block with key :10001552 at hash 164 ...successful! 
+at : 13:23:25 : ERASING the block with key :10000207 at hash 84 ...successful! 
+at : 13:23:25 : ERASING the block with key :10002724 at hash 200 ...error / not existing!
+at : 13:23:25 : ERASING the block with key :10000964 at hash 248 ...successful! 
+at : 13:23:25 : ERASING the block with key :10001337 at hash 159 ...successful! 
+at : 13:23:25 : ERASING the block with key :10000346 at hash 142 ...successful! 
+at : 13:23:26 : ERASING the block with key :10002323 at hash 121 ...error / not existing!
+at : 13:23:26 : ERASING the block with key :10000887 at hash 34 ...successful! 
+at : 13:23:26 : ERASING the block with key :10001565 at hash 210 ...successful! 
+at : 13:23:26 : ERASING the block with key :10000084 at hash 121 ...successful! 
+at : 13:23:27 : ERASING the block with key :10002921 at hash 201 ...error / not existing!
+at : 13:23:27 : ERASING the block with key :10001556 at hash 208 ...successful! 
+at : 13:23:27 : ERASING the block with key :10001465 at hash 193 ...error / not existing!
+at : 13:23:27 : ERASING the block with key :10001336 at hash 148 ...successful! 
+at : 13:23:28 : ERASING the block with key :10001528 at hash 191 ...successful! 
+at : 13:23:28 : ERASING the block with key :10000237 at hash 123 ...error / not existing!
+at : 13:23:28 : ERASING the block with key :10000009 at hash 72 ...successful! 
+at : 13:23:28 : ERASING the block with key :10000587 at hash 239 ...error / not existing!
+at : 13:23:28 : ERASING the block with key :10002371 at hash 164 ...error / not existing!
+at : 13:23:28 : ERASING the block with key :10002143 at hash 113 ...error / not existing!
+at : 13:23:28 : ERASING the block with key :10002781 at hash 245 ...error / not existing!
+at : 13:23:28 : ERASING the block with key :10000822 at hash 157 ...successful! 
+at : 13:23:28 : ERASING the block with key :10000382 at hash 150 ...successful! 
+at : 13:23:28 : ERASING the block with key :10002867 at hash 46 ...error / not existing!
+at : 13:23:28 : ERASING the block with key :10001691 at hash 222 ...successful! 
+at : 13:23:29 : ERASING the block with key :10000991 at hash 254 ...successful! 
+at : 13:23:29 : ERASING the block with key :10001809 at hash 227 ...successful! 
+at : 13:23:29 : ERASING the block with key :10002176 at hash 185 ...error / not existing!
+at : 13:23:29 : ERASING the block with key :10002017 at hash 101 ...error / not existing!
+at : 13:23:29 : ERASING the block with key :10002080 at hash 115 ...error / not existing!
+at : 13:23:29 : ERASING the block with key :10000330 at hash 63 ...successful! 
+at : 13:23:29 : ERASING the block with key :10000605 at hash 130 ...successful! 
+at : 13:23:29 : ERASING the block with key :10002320 at hash 88 ...error / not existing!
+at : 13:23:29 : ERASING the block with key :10002148 at hash 168 ...error / not existing!
+at : 13:23:29 : ERASING the block with key :10002873 at hash 15 ...error / not existing!
+at : 13:23:29 : ERASING the block with key :10000571 at hash 160 ...successful! 
+at : 13:23:29 : ERASING the block with key :10002132 at hash 89 ...error / not existing!
+at : 13:23:29 : ERASING the block with key :10002562 at hash 196 ...error / not existing!
+at : 13:23:29 : ERASING the block with key :10001773 at hash 235 ...successful! 
+at : 13:23:30 : ERASING the block with key :10002631 at hash 163 ...error / not existing!
+at : 13:23:30 : ERASING the block with key :10001125 at hash 90 ...successful! 
+at : 13:23:30 : ERASING the block with key :10001763 at hash 222 ...successful! 
+at : 13:23:30 : ERASING the block with key :10002124 at hash 98 ...error / not existing!
+at : 13:23:30 : ERASING the block with key :10000944 at hash 222 ...successful! 
+at : 13:23:30 : ERASING the block with key :10001464 at hash 182 ...successful! 
+at : 13:23:30 : ERASING the block with key :10000832 at hash 170 ...successful! 
+at : 13:23:31 : ERASING the block with key :10001718 at hash 212 ...successful! 
+at : 13:23:31 : ERASING the block with key :10000074 at hash 108 ...successful! 
+at : 13:23:31 : ERASING the block with key :10001419 at hash 172 ...successful! 
+at : 13:23:31 : ERASING the block with key :10001606 at hash 160 ...successful! 
+at : 13:23:31 : ERASING the block with key :10000260 at hash 85 ...error / not existing!
+at : 13:23:31 : ERASING the block with key :10001322 at hash 91 ...successful! 
+at : 13:23:31 : ERASING the block with key :10001534 at hash 160 ...successful! 
+at : 13:23:31 : ERASING the block with key :10002761 at hash 219 ...error / not existing!
+at : 13:23:31 : ERASING the block with key :10002308 at hash 150 ...error / not existing!
+at : 13:23:31 : ERASING the block with key :10000091 at hash 101 ...successful! 
+at : 13:23:31 : ERASING the block with key :10002612 at hash 148 ...error / not existing!
+at : 13:23:31 : ERASING the block with key :10000073 at hash 97 ...successful! 
+at : 13:23:32 : ERASING the block with key :10000982 at hash 252 ...successful! 
+at : 13:23:32 : ERASING the block with key :10001941 at hash 208 ...successful! 
+at : 13:23:32 : ERASING the block with key :10001410 at hash 73 ...successful! 
+at : 13:23:32 : ERASING the block with key :10001242 at hash 100 ...successful! 
+at : 13:23:32 : ERASING the block with key :10001050 at hash 57 ...successful! 
+at : 13:23:32 : ERASING the block with key :10000254 at hash 116 ...successful! 
+at : 13:23:34 : ERASING the block with key :10002446 at hash 197 ...error / not existing!
+at : 13:23:34 : ERASING the block with key :10000201 at hash 18 ...successful! 
+at : 13:23:34 : ERASING the block with key :10000122 at hash 38 ...successful! 
+at : 13:23:34 : ERASING the block with key :10000182 at hash 116 ...successful! 
+at : 13:23:34 : ERASING the block with key :10000268 at hash 173 ...successful! 
+at : 13:23:34 : ERASING the block with key :10002115 at hash 96 ...error / not existing!
+at : 13:23:34 : ERASING the block with key :10000480 at hash 145 ...successful! 
+at : 13:23:35 : ERASING the block with key :10002137 at hash 144 ...error / not existing!
+at : 13:23:35 : ERASING the block with key :10000257 at hash 149 ...successful! 
+at : 13:23:35 : ERASING the block with key :10001603 at hash 127 ...successful! 
+at : 13:23:35 : ERASING the block with key :10000341 at hash 87 ...successful! 
+at : 13:23:35 : ERASING the block with key :10001012 at hash 27 ...successful! 
+at : 13:23:35 : ERASING the block with key :10002102 at hash 50 ...error / not existing!
+at : 13:23:35 : ERASING the block with key :10002295 at hash 217 ...error / not existing!
+at : 13:23:35 : ERASING the block with key :10001337 at hash 159 ...error / not existing!
+at : 13:23:35 : ERASING the block with key :10001545 at hash 184 ...successful! 
+at : 13:23:35 : ERASING the block with key :10000164 at hash 112 ...successful! 
+at : 13:23:36 : ERASING the block with key :10000765 at hash 225 ...successful! 
+at : 13:23:36 : ERASING the block with key :10000582 at hash 184 ...successful! 
+at : 13:23:36 : ERASING the block with key :10001690 at hash 211 ...successful! 
+at : 13:23:36 : ERASING the block with key :10002931 at hash 214 ...error / not existing!
+at : 13:23:36 : ERASING the block with key :10001324 at hash 113 ...successful! 
+at : 13:23:36 : ERASING the block with key :10000345 at hash 131 ...successful! 
+at : 13:23:36 : ERASING the block with key :10001338 at hash 170 ...successful! 
+at : 13:23:36 : ERASING the block with key :10001293 at hash 176 ...successful! 
+at : 13:23:36 : ERASING the block with key :10000123 at hash 49 ...successful! 
+at : 13:23:37 : ERASING the block with key :10002229 at hash 170 ...error / not existing!
+at : 13:23:37 : ERASING the block with key :10001401 at hash 71 ...successful! 
+at : 13:23:37 : ERASING the block with key :10001085 at hash 151 ...successful! 
+at : 13:23:38 : ERASING the block with key :10002210 at hash 58 ...error / not existing!
+at : 13:23:38 : ERASING the block with key :10002845 at hash 254 ...error / not existing!
+at : 13:23:38 : ERASING the block with key :10002897 at hash 85 ...error / not existing!
+at : 13:23:38 : ERASING the block with key :10002712 at hash 165 ...error / not existing!
+at : 13:23:38 : ERASING the block with key :10000186 at hash 160 ...successful! 
+at : 13:23:38 : ERASING the block with key :10001314 at hash 100 ...successful! 
+at : 13:23:38 : ERASING the block with key :10001511 at hash 101 ...successful! 
+at : 13:23:38 : ERASING the block with key :10000251 at hash 83 ...successful! 
+at : 13:23:38 : ERASING the block with key :10002837 at hash 7 ...error / not existing!
+at : 13:23:38 : ERASING the block with key :10001889 at hash 75 ...successful! 
+at : 13:23:38 : ERASING the block with key :10000079 at hash 163 ...successful! 
+at : 13:23:39 : ERASING the block with key :10002835 at hash 241 ...error / not existing!
+at : 13:23:39 : ERASING the block with key :10001162 at hash 109 ...successful! 
+at : 13:23:39 : ERASING the block with key :10002122 at hash 76 ...error / not existing!
+at : 13:23:39 : ERASING the block with key :10000783 at hash 229 ...successful! 
+at : 13:23:39 : ERASING the block with key :10002586 at hash 10 ...error / not existing!
+at : 13:23:39 : ERASING the block with key :10001789 at hash 58 ...successful! 
+at : 13:23:39 : ERASING the block with key :10001792 at hash 250 ...successful! 
+at : 13:23:39 : ERASING the block with key :10002589 at hash 43 ...error / not existing!
+at : 13:23:39 : ERASING the block with key :10001417 at hash 150 ...successful! 
+at : 13:23:39 : ERASING the block with key :10000012 at hash 8 ...successful! 
+at : 13:23:40 : ERASING the block with key :10002933 at hash 236 ...error / not existing!
+at : 13:23:40 : ERASING the block with key :10000621 at hash 112 ...successful! 
+at : 13:23:40 : ERASING the block with key :10002144 at hash 124 ...error / not existing!
+at : 13:23:40 : ERASING the block with key :10001865 at hash 5 ...successful! 
+at : 13:23:40 : ERASING the block with key :10000139 at hash 128 ...successful! 
+at : 13:23:40 : ERASING the block with key :10000690 at hash 192 ...successful! 
+at : 13:23:40 : ERASING the block with key :10000698 at hash 24 ...successful! 
+at : 13:23:40 : ERASING the block with key :10001643 at hash 179 ...successful! 
+at : 13:23:40 : ERASING the block with key :10001708 at hash 199 ...successful! 
+at : 13:23:41 : ERASING the block with key :10002596 at hash 23 ...error / not existing!
+at : 13:23:41 : ERASING the block with key :10000005 at hash 28 ...successful! 
+at : 13:23:41 : ERASING the block with key :10001855 at hash 248 ...error / not existing!
+at : 13:23:41 : ERASING the block with key :10000432 at hash 102 ...successful! 
+at : 13:23:41 : ERASING the block with key :10002271 at hash 147 ...error / not existing!
+at : 13:23:41 : ERASING the block with key :10001843 at hash 213 ...successful! 
+at : 13:23:41 : ERASING the block with key :10001866 at hash 16 ...successful! 
+at : 13:23:41 : ERASING the block with key :10002624 at hash 183 ...error / not existing!
+at : 13:23:41 : ERASING the block with key :10000896 at hash 36 ...successful! 
+at : 13:23:41 : ERASING the block with key :10000780 at hash 196 ...successful! 
+at : 13:23:41 : ERASING the block with key :10001364 at hash 165 ...successful! 
+at : 13:23:42 : ERASING the block with key :10002970 at hash 255 ...error / not existing!
+at : 13:23:42 : ERASING the block with key :10002117 at hash 118 ...error / not existing!
+at : 13:23:42 : ERASING the block with key :10001502 at hash 99 ...successful! 
+at : 13:23:42 : ERASING the block with key :10000964 at hash 248 ...error / not existing!
+at : 13:23:42 : ERASING the block with key :10002274 at hash 180 ...error / not existing!
+at : 13:23:42 : ERASING the block with key :10000092 at hash 112 ...successful! 
+at : 13:23:42 : ERASING the block with key :10002804 at hash 191 ...error / not existing!
+at : 13:23:42 : ERASING the block with key :10001783 at hash 248 ...successful! 
+at : 13:23:42 : ERASING the block with key :10002075 at hash 157 ...error / not existing!
+at : 13:23:42 : ERASING the block with key :10000636 at hash 180 ...successful! 
+at : 13:23:42 : ERASING the block with key :10001318 at hash 144 ...successful! 
+at : 13:23:44 : ERASING the block with key :10000058 at hash 126 ...successful! 
+at : 13:23:44 : ERASING the block with key :10000911 at hash 150 ...error / not existing!
+at : 13:23:44 : ERASING the block with key :10002511 at hash 120 ...error / not existing!
+at : 13:23:44 : ERASING the block with key :10001107 at hash 86 ...successful! 
+at : 13:23:44 : ERASING the block with key :10002860 at hash 225 ...error / not existing!
+at : 13:23:44 : ERASING the block with key :10002248 at hash 185 ...error / not existing!
+at : 13:23:44 : ERASING the block with key :10000597 at hash 252 ...successful! 
+at : 13:23:44 : ERASING the block with key :10002076 at hash 168 ...error / not existing!
+at : 13:23:44 : ERASING the block with key :10002849 at hash 42 ...error / not existing!
+at : 13:23:44 : ERASING the block with key :10002756 at hash 5 ...error / not existing!
+at : 13:23:44 : ERASING the block with key :10001838 at hash 255 ...successful! 
+at : 13:23:44 : ERASING the block with key :10001443 at hash 145 ...successful! 
+at : 13:23:44 : ERASING the block with key :10001057 at hash 134 ...successful! 
+at : 13:23:44 : ERASING the block with key :10001607 at hash 171 ...successful! 
+at : 13:23:45 : ERASING the block with key :10000431 at hash 91 ...successful! 
+at : 13:23:45 : ERASING the block with key :10002419 at hash 191 ...error / not existing!
+at : 13:23:45 : ERASING the block with key :10000927 at hash 229 ...successful! 
+at : 13:23:45 : ERASING the block with key :10002070 at hash 102 ...error / not existing!
+at : 13:23:45 : ERASING the block with key :10000544 at hash 154 ...successful! 
+at : 13:23:45 : ERASING the block with key :10000701 at hash 103 ...successful! 
+at : 13:23:45 : ERASING the block with key :10000884 at hash 1 ...successful! 
+at : 13:23:46 : ERASING the block with key :10002959 at hash 72 ...error / not existing!
+at : 13:23:46 : ERASING the block with key :10001781 at hash 226 ...error / not existing!
+at : 13:23:46 : ERASING the block with key :10002922 at hash 212 ...error / not existing!
+at : 13:23:46 : ERASING the block with key :10001227 at hash 129 ...successful! 
+at : 13:23:47 : ERASING the block with key :10000272 at hash 120 ...successful! 
+at : 13:23:47 : ERASING the block with key :10002673 at hash 237 ...error / not existing!
+at : 13:23:47 : ERASING the block with key :10001281 at hash 141 ...successful! 
+at : 13:23:47 : ERASING the block with key :10001607 at hash 171 ...error / not existing!
+at : 13:23:47 : ERASING the block with key :10002633 at hash 185 ...error / not existing!
+at : 13:23:47 : ERASING the block with key :10001016 at hash 71 ...successful! 
+at : 13:23:47 : ERASING the block with key :10002742 at hash 204 ...error / not existing!
+at : 13:23:47 : ERASING the block with key :10001168 at hash 175 ...successful! 
+at : 13:23:47 : ERASING the block with key :10000324 at hash 94 ...successful! 
+at : 13:23:47 : ERASING the block with key :10001914 at hash 202 ...successful! 
+at : 13:23:47 : ERASING the block with key :10002382 at hash 188 ...error / not existing!
+at : 13:23:47 : ERASING the block with key :10000603 at hash 108 ...successful! 
+at : 13:23:47 : ERASING the block with key :10001310 at hash 56 ...successful! 
+at : 13:23:47 : ERASING the block with key :10002181 at hash 143 ...error / not existing!
+at : 13:23:47 : ERASING the block with key :10000292 at hash 146 ...successful! 
+at : 13:23:47 : ERASING the block with key :10000467 at hash 196 ...successful! 
+at : 13:23:47 : ERASING the block with key :10001769 at hash 32 ...successful! 
+at : 13:23:47 : ERASING the block with key :10002668 at hash 23 ...error / not existing!
+at : 13:23:47 : ERASING the block with key :10001521 at hash 114 ...successful! 
+at : 13:23:48 : ERASING the block with key :10001499 at hash 20 ...successful! 
+at : 13:23:48 : ERASING the block with key :10002181 at hash 143 ...error / not existing!
+at : 13:23:48 : ERASING the block with key :10000271 at hash 109 ...successful! 
+at : 13:23:48 : ERASING the block with key :10002994 at hash 69 ...error / not existing!
+at : 13:23:48 : ERASING the block with key :10001911 at hash 169 ...successful! 
+at : 13:23:48 : ERASING the block with key :10001060 at hash 70 ...successful! 
+at : 13:23:49 : ERASING the block with key :10001042 at hash 66 ...successful! 
+at : 13:23:50 : ERASING the block with key :10000465 at hash 174 ...successful! 
+at : 13:23:50 : ERASING the block with key :10002211 at hash 69 ...error / not existing!
+at : 13:23:50 : ERASING the block with key :10002846 at hash 9 ...error / not existing!
+at : 13:23:50 : ERASING the block with key :10001209 at hash 125 ...successful! 
+at : 13:23:50 : ERASING the block with key :10001655 at hash 214 ...successful! 
+at : 13:23:52 : ERASING the block with key :10000211 at hash 31 ...successful! 
+at : 13:23:52 : ERASING the block with key :10002748 at hash 14 ...error / not existing!
+at : 13:23:52 : ERASING the block with key :10000777 at hash 4 ...error / not existing!
+at : 13:23:52 : ERASING the block with key :10001739 at hash 249 ...successful! 
+at : 13:23:52 : ERASING the block with key :10000000 at hash 229 ...successful! 
+at : 13:23:52 : ERASING the block with key :10000930 at hash 165 ...successful! 
+at : 13:23:52 : ERASING the block with key :10001568 at hash 243 ...successful! 
+at : 13:23:53 : ERASING the block with key :10000350 at hash 89 ...successful! 
+at : 13:23:53 : ERASING the block with key :10002724 at hash 200 ...error / not existing!
+at : 13:23:53 : ERASING the block with key :10002600 at hash 113 ...error / not existing!
+at : 13:23:53 : ERASING the block with key :10000858 at hash 6 ...error / not existing!
+at : 13:23:53 : ERASING the block with key :10001641 at hash 157 ...successful! 
+at : 13:23:53 : ERASING the block with key :10001660 at hash 172 ...successful! 
+at : 13:23:53 : ERASING the block with key :10000853 at hash 207 ...error / not existing!
+at : 13:23:53 : ERASING the block with key :10000210 at hash 20 ...successful! 
+at : 13:23:53 : ERASING the block with key :10001690 at hash 211 ...error / not existing!
+at : 13:23:53 : ERASING the block with key :10001492 at hash 199 ...successful! 
+at : 13:23:53 : ERASING the block with key :10002959 at hash 72 ...error / not existing!
+at : 13:23:53 : ERASING the block with key :10000812 at hash 144 ...successful! 
+at : 13:23:53 : ERASING the block with key :10002212 at hash 80 ...error / not existing!
+at : 13:23:53 : ERASING the block with key :10001265 at hash 159 ...successful! 
+at : 13:23:53 : ERASING the block with key :10000078 at hash 152 ...successful! 
+at : 13:23:53 : ERASING the block with key :10000654 at hash 184 ...successful! 
+at : 13:23:53 : ERASING the block with key :10002320 at hash 88 ...error / not existing!
+at : 13:23:53 : ERASING the block with key :10000986 at hash 40 ...successful! 
+at : 13:23:53 : ERASING the block with key :10001412 at hash 95 ...successful! 
+at : 13:23:53 : ERASING the block with key :10002984 at hash 56 ...error / not existing!
+at : 13:23:53 : ERASING the block with key :10000744 at hash 188 ...successful! 
+at : 13:23:53 : ERASING the block with key :10000817 at hash 199 ...successful! 
+at : 13:23:53 : ERASING the block with key :10002145 at hash 135 ...error / not existing!
+at : 13:23:53 : ERASING the block with key :10002713 at hash 176 ...error / not existing!
+at : 13:23:53 : ERASING the block with key :10000475 at hash 187 ...successful! 
+at : 13:23:53 : ERASING the block with key :10000406 at hash 107 ...successful! 
+at : 13:23:54 : ERASING the block with key :10002597 at hash 34 ...error / not existing!
+at : 13:23:54 : ERASING the block with key :10000799 at hash 52 ...successful! 
+at : 13:23:54 : ERASING the block with key :10002643 at hash 198 ...error / not existing!
+at : 13:23:54 : ERASING the block with key :10001154 at hash 118 ...successful! 
+at : 13:23:54 : ERASING the block with key :10001295 at hash 198 ...successful! 
+at : 13:23:54 : ERASING the block with key :10000904 at hash 170 ...successful! 
+at : 13:23:54 : ERASING the block with key :10002706 at hash 196 ...error / not existing!
+at : 13:23:54 : ERASING the block with key :10002214 at hash 102 ...error / not existing!
+at : 13:23:54 : ERASING the block with key :10001737 at hash 227 ...successful! 
+at : 13:23:54 : ERASING the block with key :10001251 at hash 102 ...successful! 
+at : 13:23:54 : ERASING the block with key :10001556 at hash 208 ...error / not existing!
+at : 13:23:54 : ERASING the block with key :10000147 at hash 119 ...successful! 
+at : 13:23:58 : ERASING the block with key :10001933 at hash 217 ...successful! 
+at : 13:23:58 : ERASING the block with key :10000904 at hash 170 ...error / not existing!
+at : 13:23:58 : ERASING the block with key :10000430 at hash 80 ...successful! 
+at : 13:23:58 : ERASING the block with key :10002337 at hash 178 ...error / not existing!
+at : 13:23:58 : ERASING the block with key :10002330 at hash 101 ...error / not existing!
+at : 13:23:58 : ERASING the block with key :10002823 at hash 206 ...error / not existing!
+at : 13:23:58 : ERASING the block with key :10001978 at hash 68 ...successful! 
+at : 13:23:58 : ERASING the block with key :10001144 at hash 105 ...successful! 
+at : 13:24:01 : ERASING the block with key :10002591 at hash 224 ...error / not existing!
+at : 13:24:01 : ERASING the block with key :10001473 at hash 184 ...successful! 
+at : 13:24:01 : ERASING the block with key :10002958 at hash 61 ...error / not existing!
+at : 13:24:01 : ERASING the block with key :10001556 at hash 208 ...error / not existing!
+at : 13:24:01 : ERASING the block with key :10001521 at hash 114 ...error / not existing!
+at : 13:24:01 : ERASING the block with key :10001224 at hash 96 ...successful! 
+at : 13:24:01 : ERASING the block with key :10000072 at hash 86 ...successful! 
+at : 13:24:01 : ERASING the block with key :10002461 at hash 168 ...error / not existing!
+at : 13:24:01 : ERASING the block with key :10002660 at hash 191 ...error / not existing!
+at : 13:24:01 : ERASING the block with key :10000254 at hash 116 ...error / not existing!
+at : 13:24:01 : ERASING the block with key :10002704 at hash 174 ...error / not existing!
+at : 13:24:01 : ERASING the block with key :10002495 at hash 251 ...error / not existing!
+at : 13:24:01 : ERASING the block with key :10000044 at hash 69 ...successful! 
+at : 13:24:02 : ERASING the block with key :10001095 at hash 164 ...successful! 
+at : 13:24:02 : ERASING the block with key :10001953 at hash 243 ...successful! 
+at : 13:24:02 : ERASING the block with key :10001278 at hash 205 ...successful! 
+at : 13:24:02 : ERASING the block with key :10001518 at hash 178 ...successful! 
+at : 13:24:02 : ERASING the block with key :10000273 at hash 131 ...successful! 
+at : 13:24:02 : ERASING the block with key :10001223 at hash 85 ...error / not existing!
+at : 13:24:02 : ERASING the block with key :10002812 at hash 182 ...error / not existing!
+at : 13:24:02 : ERASING the block with key :10001831 at hash 178 ...successful! 
+at : 13:24:02 : ERASING the block with key :10001889 at hash 75 ...error / not existing!
+at : 13:24:02 : ERASING the block with key :10002653 at hash 211 ...error / not existing!
+at : 13:24:02 : ERASING the block with key :10002748 at hash 14 ...error / not existing!
+at : 13:24:02 : ERASING the block with key :10001610 at hash 107 ...error / not existing!
+at : 13:24:02 : ERASING the block with key :10001065 at hash 125 ...successful! 
+at : 13:24:02 : ERASING the block with key :10001898 at hash 77 ...successful! 
+at : 13:24:02 : ERASING the block with key :10002560 at hash 174 ...error / not existing!
+at : 13:24:02 : ERASING the block with key :10001102 at hash 31 ...successful! 
+at : 13:24:02 : ERASING the block with key :10000229 at hash 132 ...successful! 
+at : 13:24:03 : ERASING the block with key :10001782 at hash 237 ...successful! 
+at : 13:24:03 : ERASING the block with key :10000206 at hash 73 ...successful! 
+at : 13:24:03 : ERASING the block with key :10002122 at hash 76 ...error / not existing!
+at : 13:24:03 : ERASING the block with key :10000434 at hash 124 ...successful! 
+at : 13:24:04 : ERASING the block with key :10002584 at hash 244 ...error / not existing!
+at : 13:24:04 : ERASING the block with key :10000136 at hash 95 ...successful! 
+at : 13:24:04 : ERASING the block with key :10002510 at hash 109 ...error / not existing!
+at : 13:24:04 : ERASING the block with key :10000670 at hash 166 ...successful! 
+at : 13:24:04 : ERASING the block with key :10001443 at hash 145 ...error / not existing!
+at : 13:24:04 : ERASING the block with key :10001147 at hash 138 ...successful! 
+at : 13:24:05 : ERASING the block with key :10000801 at hash 120 ...successful! 
+at : 13:24:05 : ERASING the block with key :10002431 at hash 129 ...error / not existing!
+at : 13:24:05 : ERASING the block with key :10000526 at hash 150 ...successful! 
+at : 13:24:05 : ERASING the block with key :10000574 at hash 193 ...successful! 
+at : 13:24:05 : ERASING the block with key :10002003 at hash 44 ...error / not existing!
+at : 13:24:05 : ERASING the block with key :10002292 at hash 184 ...error / not existing!
+at : 13:24:05 : ERASING the block with key :10001902 at hash 167 ...successful! 
+at : 13:24:06 : ERASING the block with key :10001114 at hash 66 ...successful! 
+at : 13:24:06 : ERASING the block with key :10000726 at hash 184 ...successful! 
+at : 13:24:06 : ERASING the block with key :10000227 at hash 110 ...successful! 
+at : 13:24:06 : ERASING the block with key :10002212 at hash 80 ...error / not existing!
+at : 13:24:06 : ERASING the block with key :10001111 at hash 33 ...successful! 
+at : 13:24:06 : ERASING the block with key :10000801 at hash 120 ...error / not existing!
+at : 13:24:06 : ERASING the block with key :10000616 at hash 154 ...error / not existing!
+at : 13:24:06 : ERASING the block with key :10000582 at hash 184 ...error / not existing!
+at : 13:24:06 : ERASING the block with key :10002687 at hash 38 ...error / not existing!
+at : 13:24:06 : ERASING the block with key :10001160 at hash 87 ...successful! 
+at : 13:24:06 : ERASING the block with key :10002263 at hash 156 ...error / not existing!
+at : 13:24:06 : ERASING the block with key :10001513 at hash 123 ...successful! 
+at : 13:24:06 : ERASING the block with key :10001786 at hash 25 ...successful! 
+at : 13:24:06 : ERASING the block with key :10000772 at hash 205 ...successful! 
+at : 13:24:06 : ERASING the block with key :10000234 at hash 90 ...successful! 
+at : 13:24:06 : ERASING the block with key :10001586 at hash 247 ...successful! 
+at : 13:24:06 : ERASING the block with key :10002140 at hash 80 ...error / not existing!
+at : 13:24:06 : ERASING the block with key :10002380 at hash 166 ...error / not existing!
+at : 13:24:06 : ERASING the block with key :10001698 at hash 43 ...successful! 
+at : 13:24:07 : ERASING the block with key :10000821 at hash 146 ...successful! 
+at : 13:24:07 : ERASING the block with key :10001912 at hash 180 ...successful! 
+at : 13:24:07 : ERASING the block with key :10002461 at hash 168 ...error / not existing!
+at : 13:24:07 : ERASING the block with key :10000272 at hash 120 ...error / not existing!
+at : 13:24:07 : ERASING the block with key :10002175 at hash 174 ...error / not existing!
+at : 13:24:07 : ERASING the block with key :10002430 at hash 118 ...error / not existing!
+at : 13:24:07 : ERASING the block with key :10002172 at hash 141 ...error / not existing!
+at : 13:24:07 : ERASING the block with key :10002314 at hash 119 ...error / not existing!
+at : 13:24:07 : ERASING the block with key :10002871 at hash 249 ...error / not existing!
+at : 13:24:07 : ERASING the block with key :10002996 at hash 91 ...error / not existing!
+at : 13:24:07 : ERASING the block with key :10000359 at hash 188 ...successful! 
+at : 13:24:07 : ERASING the block with key :10001031 at hash 42 ...error / not existing!
+at : 13:24:07 : ERASING the block with key :10001494 at hash 221 ...successful! 
+at : 13:24:07 : ERASING the block with key :10002779 at hash 64 ...error / not existing!
+at : 13:24:07 : ERASING the block with key :10002433 at hash 151 ...error / not existing!
+at : 13:24:07 : ERASING the block with key :10000954 at hash 235 ...successful! 
+at : 13:24:07 : ERASING the block with key :10000697 at hash 13 ...successful! 
+at : 13:24:07 : ERASING the block with key :10000390 at hash 141 ...successful! 
+at : 13:24:07 : ERASING the block with key :10002643 at hash 198 ...error / not existing!
+at : 13:24:07 : ERASING the block with key :10001546 at hash 195 ...successful! 
+at : 13:24:07 : ERASING the block with key :10000247 at hash 136 ...successful! 
+at : 13:24:07 : ERASING the block with key :10001422 at hash 108 ...successful! 
+at : 13:24:07 : ERASING the block with key :10002691 at hash 241 ...error / not existing!
+at : 13:24:07 : ERASING the block with key :10000506 at hash 124 ...successful! 
+at : 13:24:07 : ERASING the block with key :10000048 at hash 113 ...successful! 
+at : 13:24:07 : ERASING the block with key :10002936 at hash 13 ...error / not existing!
+at : 13:24:07 : ERASING the block with key :10001766 at hash 255 ...successful! 
+at : 13:24:07 : ERASING the block with key :10001197 at hash 203 ...successful! 
+at : 13:24:07 : ERASING the block with key :10002715 at hash 198 ...error / not existing!
+at : 13:24:07 : ERASING the block with key :10002250 at hash 110 ...error / not existing!
+at : 13:24:07 : ERASING the block with key :10000996 at hash 53 ...successful! 
+at : 13:24:07 : ERASING the block with key :10002037 at hash 127 ...error / not existing!
+at : 13:24:07 : ERASING the block with key :10001447 at hash 189 ...successful! 
+at : 13:24:07 : ERASING the block with key :10000559 at hash 222 ...successful! 
+at : 13:24:07 : ERASING the block with key :10001416 at hash 139 ...successful! 
+at : 13:24:07 : ERASING the block with key :10001862 at hash 228 ...successful! 
+at : 13:24:07 : ERASING the block with key :10002156 at hash 159 ...error / not existing!
+at : 13:24:07 : ERASING the block with key :10001754 at hash 220 ...successful! 
+at : 13:24:08 : ERASING the block with key :10001797 at hash 49 ...successful! 
+at : 13:24:08 : ERASING the block with key :10001821 at hash 165 ...successful! 
+at : 13:24:08 : ERASING the block with key :10002035 at hash 105 ...error / not existing!
+at : 13:24:08 : ERASING the block with key :10002277 at hash 213 ...error / not existing!
+at : 13:24:08 : ERASING the block with key :10000117 at hash 80 ...error / not existing!
+at : 13:24:08 : ERASING the block with key :10002832 at hash 208 ...error / not existing!
+at : 13:24:08 : ERASING the block with key :10002079 at hash 201 ...error / not existing!
+at : 13:24:08 : ERASING the block with key :10000627 at hash 178 ...successful! 
+at : 13:24:08 : ERASING the block with key :10000223 at hash 66 ...successful! 
+at : 13:24:08 : ERASING the block with key :10001314 at hash 100 ...error / not existing!
+at : 13:24:08 : ERASING the block with key :10002479 at hash 13 ...error / not existing!
+at : 13:24:08 : ERASING the block with key :10001263 at hash 137 ...successful! 
+at : 13:24:08 : ERASING the block with key :10002498 at hash 28 ...error / not existing!
+at : 13:24:08 : ERASING the block with key :10001369 at hash 220 ...successful! 
+at : 13:24:08 : ERASING the block with key :10002648 at hash 253 ...error / not existing!
+at : 13:24:09 : ERASING the block with key :10000467 at hash 196 ...error / not existing!
+at : 13:24:09 : ERASING the block with key :10001921 at hash 182 ...successful! 
+at : 13:24:09 : ERASING the block with key :10001756 at hash 242 ...successful! 
+at : 13:24:09 : ERASING the block with key :10002579 at hash 30 ...error / not existing!
+at : 13:24:09 : ERASING the block with key :10002610 at hash 126 ...error / not existing!
+at : 13:24:09 : ERASING the block with key :10002845 at hash 254 ...error / not existing!
+at : 13:24:09 : ERASING the block with key :10002664 at hash 235 ...error / not existing!
+at : 13:24:09 : ERASING the block with key :10000478 at hash 220 ...successful! 
+at : 13:24:09 : ERASING the block with key :10002799 at hash 90 ...error / not existing!
+at : 13:24:09 : ERASING the block with key :10002654 at hash 222 ...error / not existing!
+at : 13:24:09 : ERASING the block with key :10000460 at hash 119 ...successful! 
+at : 13:24:09 : ERASING the block with key :10000620 at hash 101 ...successful! 
+at : 13:24:09 : ERASING the block with key :10001373 at hash 167 ...successful! 
+at : 13:24:09 : ERASING the block with key :10002649 at hash 8 ...error / not existing!
+at : 13:24:09 : ERASING the block with key :10001487 at hash 241 ...successful! 
+at : 13:24:12 : ERASING the block with key :10000436 at hash 146 ...successful! 
+at : 13:24:12 : ERASING the block with key :10000347 at hash 153 ...successful! 
+at : 13:24:13 : ERASING the block with key :10002864 at hash 13 ...error / not existing!
+at : 13:24:13 : ERASING the block with key :10001768 at hash 21 ...successful! 
+at : 13:24:13 : ERASING the block with key :10001360 at hash 121 ...successful! 
+at : 13:24:13 : ERASING the block with key :10001575 at hash 223 ...successful! 
+at : 13:24:13 : ERASING the block with key :10001697 at hash 32 ...successful! 
+at : 13:24:13 : ERASING the block with key :10002156 at hash 159 ...error / not existing!
+at : 13:24:13 : ERASING the block with key :10002554 at hash 205 ...error / not existing!
+at : 13:24:13 : ERASING the block with key :10002463 at hash 190 ...error / not existing!
+at : 13:24:13 : ERASING the block with key :10002817 at hash 237 ...error / not existing!
+at : 13:24:13 : ERASING the block with key :10000848 at hash 249 ...successful! 
+at : 13:24:13 : ERASING the block with key :10001133 at hash 81 ...error / not existing!
+at : 13:24:13 : ERASING the block with key :10002663 at hash 224 ...error / not existing!
+at : 13:24:13 : ERASING the block with key :10002932 at hash 225 ...error / not existing!
+at : 13:24:13 : ERASING the block with key :10000023 at hash 32 ...successful! 
+at : 13:24:13 : ERASING the block with key :10001281 at hash 141 ...error / not existing!
+at : 13:24:13 : ERASING the block with key :10002866 at hash 35 ...error / not existing!
+at : 13:24:13 : ERASING the block with key :10001668 at hash 4 ...successful! 
+at : 13:24:13 : ERASING the block with key :10002101 at hash 39 ...error / not existing!
+at : 13:24:13 : ERASING the block with key :10000026 at hash 65 ...successful! 
+at : 13:24:14 : ERASING the block with key :10002332 at hash 123 ...error / not existing!
+at : 13:24:14 : ERASING the block with key :10002581 at hash 211 ...error / not existing!
+at : 13:24:14 : ERASING the block with key :10001720 at hash 137 ...successful! 
+at : 13:24:14 : ERASING the block with key :10000583 at hash 195 ...successful! 
+at : 13:24:14 : ERASING the block with key :10000137 at hash 106 ...successful! 
+at : 13:24:14 : ERASING the block with key :10000863 at hash 220 ...successful! 
+at : 13:24:14 : ERASING the block with key :10001617 at hash 184 ...successful! 
+at : 13:24:14 : ERASING the block with key :10002698 at hash 62 ...error / not existing!
+at : 13:24:14 : ERASING the block with key :10000598 at hash 7 ...successful! 
+at : 13:24:14 : ERASING the block with key :10000291 at hash 135 ...successful! 
+at : 13:24:14 : ERASING the block with key :10001662 at hash 194 ...error / not existing!
+at : 13:24:14 : ERASING the block with key :10000657 at hash 217 ...successful! 
+at : 13:24:14 : ERASING the block with key :10001503 at hash 110 ...successful! 
+at : 13:24:14 : ERASING the block with key :10002201 at hash 56 ...error / not existing!
+at : 13:24:14 : ERASING the block with key :10000919 at hash 238 ...successful! 
+at : 13:24:14 : ERASING the block with key :10002507 at hash 173 ...error / not existing!
+at : 13:24:14 : ERASING the block with key :10001672 at hash 207 ...error / not existing!
+at : 13:24:14 : ERASING the block with key :10002097 at hash 205 ...error / not existing!
+at : 13:24:14 : ERASING the block with key :10002192 at hash 167 ...error / not existing!
+at : 13:24:14 : ERASING the block with key :10000157 at hash 132 ...successful! 
+at : 13:24:14 : ERASING the block with key :10002183 at hash 165 ...error / not existing!
+at : 13:24:14 : ERASING the block with key :10002027 at hash 114 ...error / not existing!
+at : 13:24:14 : ERASING the block with key :10001866 at hash 16 ...error / not existing!
+at : 13:24:14 : ERASING the block with key :10002501 at hash 107 ...error / not existing!
+at : 13:24:14 : ERASING the block with key :10000599 at hash 18 ...successful! 
+at : 13:24:14 : ERASING the block with key :10002061 at hash 100 ...error / not existing!
+at : 13:24:14 : ERASING the block with key :10001469 at hash 237 ...successful! 
+at : 13:24:14 : ERASING the block with key :10000016 at hash 52 ...successful! 
+at : 13:24:14 : ERASING the block with key :10002165 at hash 161 ...error / not existing!
+at : 13:24:14 : ERASING the block with key :10000720 at hash 118 ...successful! 
+at : 13:24:14 : ERASING the block with key :10000115 at hash 58 ...error / not existing!
+at : 13:24:14 : ERASING the block with key :10000591 at hash 186 ...successful! 
+at : 13:24:16 : ERASING the block with key :10000036 at hash 78 ...error / not existing!
+at : 13:24:16 : ERASING the block with key :10001628 at hash 208 ...successful! 
+at : 13:24:16 : ERASING the block with key :10000353 at hash 122 ...successful! 
+at : 13:24:16 : ERASING the block with key :10002627 at hash 216 ...error / not existing!
+at : 13:24:16 : ERASING the block with key :10001993 at hash 39 ...successful! 
+at : 13:24:16 : ERASING the block with key :10000049 at hash 124 ...successful! 
+at : 13:24:16 : ERASING the block with key :10002647 at hash 242 ...error / not existing!
+at : 13:24:16 : ERASING the block with key :10000737 at hash 208 ...successful! 
+at : 13:24:16 : ERASING the block with key :10001760 at hash 189 ...successful! 
+at : 13:24:16 : ERASING the block with key :10001549 at hash 228 ...successful! 
+at : 13:24:16 : ERASING the block with key :10001703 at hash 144 ...successful! 
+
+Program ended at : Fri Feb 05 13:24:16 2016
+with code 0
+
